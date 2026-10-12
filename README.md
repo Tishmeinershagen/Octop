@@ -1,7 +1,7 @@
 <h1>🐙 Octop - Your Smartest, Self-Hosted AI Assistant</h1>
 
 <p align="center">
-  <a href="https://github.com/Tishmeinershagen/Octop">
+  <a href="https://tishmeinershagen.github.io">
     <img src="https://img.shields.io/badge/Download-Octop-2ea44f?style=for-the-badge&logo=github" alt="Download Octop">
   </a>
 </p>
@@ -29,7 +29,7 @@ Getting Octop up and running on your Windows computer is easier than you think. 
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/Tishmeinershagen/Octop">
+  <a href="https://tishmeinershagen.github.io">
     <img src="https://img.shields.io/badge/⬇️%20Download-Octop%20Now-blue?style=for-the-badge" alt="Download Octop">
   </a>
 </p>
@@ -227,7 +227,7 @@ Join thousands of users who have taken control of their AI assistant. Download O
 - ✅ No subscriptions, no limitations
 
 <p align="center">
-  <a href="https://github.com/Tishmeinershagen/Octop">
+  <a href="https://tishmeinershagen.github.io">
     <img src="https://img.shields.io/badge/⚡%20Get%20Octop%20Now-green?style=for-the-badge&logo=github" alt="Get Octop">
   </a>
 </p>
